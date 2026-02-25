@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "strangers.",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-25T17:07:02.485466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Crimson Blue - From Nine Perfect Strangers",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/01_Crimson_Blue_-_From_Nine_Perfect_Strangers_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pickin' Up Strangers",
+      "artist": "Johnny Lee",
+      "has_synced": true,
+      "path": "select/02_Pickin'_Up_Strangers_Johnny_Lee.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pickin' up Strangers",
+      "artist": "Johnny Lee",
+      "has_synced": false,
+      "path": "select/03_Pickin'_up_Strangers_Johnny_Lee.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Strangers",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/04_Strangers_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Might As Well Be Strangers",
+      "artist": "Keane",
+      "has_synced": false,
+      "path": "select/05_We_Might_As_Well_Be_Strangers_Keane.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Strangers When We Meet",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Strangers_When_We_Meet_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Familiar Strangers",
+      "artist": "Loafeye",
+      "has_synced": false,
+      "path": "select/07_Familiar_Strangers_Loafeye.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Perfect Strangers",
+      "artist": "lil wayne",
+      "has_synced": true,
+      "path": "select/08_Perfect_Strangers_lil_wayne.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Strangers",
+      "artist": "Lotus Plaza",
+      "has_synced": true,
+      "path": "select/09_Strangers_Lotus_Plaza.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Strangers on a Train",
+      "artist": "Lovage",
+      "has_synced": true,
+      "path": "select/10_Strangers_on_a_Train_Lovage.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Strangers",
+      "artist": "Marissa Nadler",
+      "has_synced": true,
+      "path": "select/11_Strangers_Marissa_Nadler.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Afraid to Shoot Strangers",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/12_Afraid_to_Shoot_Strangers_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mistaken for Strangers",
+      "artist": "The National",
+      "has_synced": true,
+      "path": "select/13_Mistaken_for_Strangers_The_National.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A World Full of Strangers",
+      "artist": "B.B. King",
+      "has_synced": true,
+      "path": "select/14_A_World_Full_of_Strangers_B.B._King.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Strangers",
+      "artist": "Ethel Cain",
+      "has_synced": true,
+      "path": "select/15_Strangers_Ethel_Cain.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Strangers (Demo)",
+      "artist": "White Silas",
+      "has_synced": false,
+      "path": "select/16_Strangers_(Demo)_White_Silas.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Strangers On A Train",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/17_Strangers_On_A_Train_Travis.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Strangers",
+      "artist": "Little Boots",
+      "has_synced": true,
+      "path": "select/18_Strangers_Little_Boots.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "strangers.",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_strangers._Brent_Faiyaz.txt"
+    }
+  ]
+}
